@@ -1,4 +1,4 @@
-![Web Scraping]([https://github.com/Sathyam-Kakodkar/Customer-Satisfaction/blob/main/Feature%20Importance%20for%20Customer%20Satisfaction.png](https://github.com/Sathyam-Kakodkar/Web-Scraping-with-Python/blob/main/Images/Web%20Scarping%20with%20Python.jpeg])
+![Web Scraping](https://github.com/Sathyam-Kakodkar/Customer-Satisfaction/blob/main/Feature%20Importance%20for%20Customer%20Satisfaction.png](https://github.com/Sathyam-Kakodkar/Web-Scraping-with-Python/blob/main/Images/Web%20Scarping%20with%20Python.jpeg)
 
 
 # Web Scraping Website with Python
